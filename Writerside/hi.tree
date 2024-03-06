@@ -4,9 +4,9 @@
 
 <instance-profile id="Mia"
                  name="机器人Mia指令大全"
-                 start-page="日常指令.md">
+                 start-page="daily.md">
 
-    <toc-element topic="日常指令.md">
+    <toc-element topic="daily.md">
         <toc-element topic="qian.md"/>
     </toc-element>
     <toc-element topic="Default-topic.md"/>
