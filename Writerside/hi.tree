@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="机器人Mia指令大全"
+                 name="Mia Bot Commands 101"
                  start-page="daily.md">
 
     <toc-element topic="daily.md">
