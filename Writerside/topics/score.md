@@ -1,6 +1,8 @@
 # 积分查询
 
-**关键词**: `score`, `Score`, `SCORE`
+<tldr>
+    <p>关键词: <shortcut>score</shortcut> <shortcut>SCORE</shortcut> <shortcut>Score</shortcut></p>
+</tldr>
 
 ## 介绍
 
