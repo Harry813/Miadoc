@@ -1,6 +1,8 @@
 # 账户绑定
 
-**关键词**: `bind`, `BIND`, `Bind`
+<tldr>
+    <p>关键词: <shortcut>bind</shortcut> <shortcut>BIND</shortcut> <shortcut>Bind</shortcut></p>
+</tldr>
 
 ## 介绍
 
@@ -14,4 +16,8 @@
 
 如需解绑或换绑，请联系`@萧寒`进行操作。
 
-## 超管使用
+
+---
+switcher-label: UserLevel
+---
+## 超管使用 {switcher-key="Admin"}
