@@ -1,6 +1,8 @@
 # 吕祖灵签
 
-**关键词**: `qian`, `QIAN`, `Qian`
+<tldr>
+    <p>关键词: <shortcut>qian</shortcut> <shortcut>QIAN</shortcut> <shortcut>Qian</shortcut></p>
+</tldr>
 
 ## 介绍
 从100支吕祖灵签中随机抽取一支。可以花费20%score_tag%找`@萧寒`进行解签。

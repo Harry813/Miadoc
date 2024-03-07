@@ -1,6 +1,9 @@
 # 六十四卦
 
-**关键词**: `qian`, `QIAN`, `Qian`
+
+<tldr>
+    <p>关键词: <shortcut>gua</shortcut> <shortcut>GUA</shortcut> <shortcut>Gua</shortcut></p>
+</tldr>
 
 ## 介绍
 随机生成一支周易卦。可以花费30%score_tag%找`@萧寒`进行解签。

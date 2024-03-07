@@ -1,6 +1,8 @@
 # 每日运势
 
-**关键词**: `luck`, `LUCK`, `Luck`
+<tldr>
+    <p>关键词: <shortcut>luck</shortcut> <shortcut>LUCK</shortcut> <shortcut>Luck</shortcut></p>
+</tldr>
 
 ## 介绍
 

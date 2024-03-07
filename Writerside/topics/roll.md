@@ -1,6 +1,8 @@
 # 骰子
 
-**关键词**：`roll`, `Roll`, `ROLL`
+<tldr>
+    <p>关键词: <shortcut>roll</shortcut> <shortcut>ROLL</shortcut> <shortcut>Roll</shortcut></p>
+</tldr>
 
 ## 介绍
 投掷骰子，获得结果
