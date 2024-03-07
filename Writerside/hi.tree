@@ -7,6 +7,7 @@
                  start-page="daily.md">
 
     <toc-element topic="daily.md">
+        <toc-element topic="checkin.md"/>
         <toc-element topic="luck.md"/>
         <toc-element topic="qian.md"/>
         <toc-element topic="gua.md"/>
