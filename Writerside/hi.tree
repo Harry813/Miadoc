@@ -17,6 +17,9 @@
         <toc-element topic="truth.md"/>
         <toc-element topic="dare.md"/>
     </toc-element>
+    <toc-element topic="games.md">
+        <toc-element topic="boom.md"/>
+    </toc-element>
     <toc-element topic="account.md">
         <toc-element topic="account_bind.md"/>
         <toc-element topic="score.md"/>
