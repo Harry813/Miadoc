@@ -10,4 +10,8 @@
         <description>Created after removal of "欢迎" from Help Instance</description>
         <accepts>欢迎.html</accepts>
     </rule>
+    <rule id="446eca81">
+        <description>Created after removal of "数字接龙" from Mia 小可爱的攻略指南</description>
+        <accepts>count.html</accepts>
+    </rule>
 </rules>

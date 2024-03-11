@@ -1,4 +1,4 @@
-# 数字炸弹
+# 💣数字炸弹
 
 <tldr>
     <p>关键词: <shortcut>boom</shortcut> <shortcut>Boom</shortcut> <shortcut>BOOM</shortcut> <shortcut>bomb</shortcut> 
