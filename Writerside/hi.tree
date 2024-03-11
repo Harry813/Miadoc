@@ -24,6 +24,8 @@
         <toc-element topic="count.md"/>
         <toc-element topic="dt.md"/>
         <toc-element topic="rule.md"/>
+        <toc-element topic="undercover.md"/>
+        <toc-element topic="yanse.md"/>
     </toc-element>
     <toc-element topic="account.md">
         <toc-element topic="account_bind.md"/>
