@@ -13,9 +13,10 @@
         <toc-element topic="qian.md"/>
         <toc-element topic="gua.md"/>
         <toc-element topic="roll.md"/>
-        <toc-element topic="dare_truth.md"/>
-        <toc-element topic="truth.md"/>
-        <toc-element topic="dare.md"/>
+        <toc-element topic="dare_truth.md">
+            <toc-element topic="truth.md"/>
+            <toc-element topic="dare.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="games.md">
         <toc-element topic="boom.md">
